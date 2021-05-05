@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	line-height: 15px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+footer{
+	background-color: #333333;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 15px;
+	color: #AED6F1;
+}
+
+h1{
+	font-size: 30px;
+	color: #AED6F1;
+	font-family: 'Open Sans', sans-serif;\
+	padding: 15px;
+}
